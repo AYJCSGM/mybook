@@ -1,7 +1,5 @@
 # myBook
 
-> 预览 ➡️ [https://joeybling.github.io/myBook](https://joeybling.github.io/myBook)
-
 
 **一直在努力,从未放弃**
 
